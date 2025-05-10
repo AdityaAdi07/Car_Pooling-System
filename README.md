@@ -29,6 +29,13 @@ A professional, responsive web application for car pooling services. This websit
 - `hero-bg.jpg` - Hero section background image
 - `about-image.jpg` - About section image
 
+## Gallery
+![Screenshot 2025-05-10 142735](https://github.com/user-attachments/assets/74d808b7-7f75-4f30-94d8-eadb37d879fb)
+
+![Screenshot 2025-05-10 142854](https://github.com/user-attachments/assets/cdf2b959-ba64-41c1-a11b-482e9cf72aa6)
+
+![Screenshot 2025-05-10 142929](https://github.com/user-attachments/assets/67a3031f-8a79-4b0f-a7bf-193e98a98600)
+
 ## Getting Started
 
 1. Clone or download this repository
