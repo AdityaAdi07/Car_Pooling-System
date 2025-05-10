@@ -8,9 +8,9 @@ frequently(with thier permission)
 - [Uber_img](#uber.png)
 
 ## Images
-![Screenshot 2024-11-17 150812](https://github.com/user-attachments/assets/fa0f2999-3cf3-4426-a9cc-dd615afdba1b)
-![Screenshot 2024-11-17 150835](https://github.com/user-attachments/assets/d5dca2c8-2c7f-4bc9-bae8-b657ae988744)
-![Screenshot 2024-11-17 150911](https://github.com/user-attachments/assets/2ee3338c-be30-4d50-a002-62275eb6f9ce)
+![image](https://github.com/user-attachments/assets/04bc3cf5-6edf-47f4-b681-cdf9db4f73c7)
+![image](https://github.com/user-attachments/assets/54a940b9-8851-41da-96e4-11b88d59a713)
+![image](https://github.com/user-attachments/assets/21fa84b4-defc-4f9a-bb0f-9125f2ee0ba2)
 
 ## Future Scope
 - Expand to car booking applications.
